@@ -5,6 +5,8 @@ Este repositório é voltado para criação de diversos projetos utilizado a lin
 - Tkinter
 - Hash
 - SpeechRecognition
+- Streamlit
+- Socket
 
 
 ## Referências
