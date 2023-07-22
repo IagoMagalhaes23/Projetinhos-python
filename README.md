@@ -7,6 +7,7 @@ Este repositório é voltado para criação de diversos projetos utilizado a lin
 - SpeechRecognition
 - Streamlit
 - Socket
+- OpenCV
 
 
 ## Referências
